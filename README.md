@@ -25,11 +25,9 @@ I have a strong passion for anything tech, and I currently enjoy working on proj
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<br>
+<br><br><br>
 
-## Contact Me
-
-Feel free to reach out to me through these channels:
+## Want to Reach Out?
 
 - 📧 Email: thecodingmkanyi@gmail.com
 - 💬 Twitter: https://twitter.com/mkanyiii
