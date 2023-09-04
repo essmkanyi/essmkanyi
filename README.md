@@ -1,6 +1,6 @@
 # Hiya, I'm Ess!
 
-I'm a passionate and aspiring Full-Stack Software Developer based in Nairobi, Kenya.
+I'm a passionate and aspiring Full-Stack Software Engineer based in Nairobi, Kenya.
 
 ## About Me
 
