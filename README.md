@@ -1,4 +1,4 @@
-# Hiya, I'm Ess!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hiya%2C+I'm+Ess%21)](https://git.io/typing-svg)
 
 I'm a passionate and aspiring Full-Stack Software Engineer based in Nairobi, Kenya.
 
