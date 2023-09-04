@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring Software Developer b
 ## About Me
 
 - 🎓 Student of Applied Computing (4th Year)
-- 💼 Head of Customer Support & Tech Intern @KyandaDeveloper
+- 💼 Tech Intern @KyandaDeveloper
 
 ## My Interests
 
