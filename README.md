@@ -2,13 +2,13 @@
 
 I'm a passionate and aspiring Full-Stack Software Engineer based in Nairobi, Kenya.
 
-## About Me
+## About Ess
 
 - 🎓 Student of Applied Computing (4th Year)
 - 💼 Tech Intern @KyandaDeveloper
 <br>
 
-## My Interests
+## Ess's Eclectic Obsessions
 
 I have a strong passion for anything tech, and I currently enjoy working on projects related to:
 
@@ -17,7 +17,7 @@ I have a strong passion for anything tech, and I currently enjoy working on proj
 - 📚 Git Version Control
 <br>
 
-## Languages and tools
+## Ess's Toolbox
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -28,7 +28,7 @@ I have a strong passion for anything tech, and I currently enjoy working on proj
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br><br>
 
-## Want to Reach Out?
+## Let's Chat!
 
 - 📧 Email: thecodingmkanyi@gmail.com
 - 💬 Twitter: https://twitter.com/mkanyiii
