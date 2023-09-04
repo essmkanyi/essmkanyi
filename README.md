@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring Software Developer b
 
 ## My Interests
 
-I have a strong passion for [Your Interests], and I enjoy working on projects related to:
+I have a strong passion for anything, and I currently enjoy working on projects related to:
 
 - 🚀 Mobile App Development (C, C++ & Java)
 - 💻 Web Developement (HTML, CSS, JavaScript & React)
