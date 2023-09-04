@@ -1,6 +1,6 @@
 # Hiya, I'm Ess!
 
-Welcome to my GitHub profile! I'm a passionate Software Developer based in Nairobi, Kenya. Here you'll find a collection of my projects, contributions, and more.
+Welcome to my GitHub profile! I'm a passionate and aspiring Software Developer based in Nairobi, Kenya.
 
 ## About Me
 
