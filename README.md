@@ -4,8 +4,7 @@ I'm a passionate and aspiring Full-Stack Software Engineer based in Nairobi, Ken
 
 ## About Ess
 
-- 🎓 Student of Applied Computing (4th Year)
-- 💼 Tech Intern @KyandaDeveloper
+- 🎓 A graduate of Applied Computing
 <br>
 
 ## Ess's Eclectic Obsessions
