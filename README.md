@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hiya%2C+I'm+Ess%21)](https://git.io/typing-svg)
 
-I'm a passionate and aspiring Full-Stack Software Engineer based in Nairobi, Kenya.
+I'm a passionate and aspiring MarTech Specialist based in Nairobi, Kenya. 
 
 ## About Ess
 
@@ -9,10 +9,10 @@ I'm a passionate and aspiring Full-Stack Software Engineer based in Nairobi, Ken
 
 ## Ess's Eclectic Obsessions
 
-I have a strong passion for anything tech, and I currently enjoy working on projects related to:
+I have a strong passion for anything tech & marketing, and I currently enjoy working on projects related to:
 
-- 🚀 Mobile App Development (C, C# & Java)
-- 💻 Web Developement (HTML, CSS, JavaScript & React)
+- 🚀 Applying & Adapting Creative Brand Strategies
+- 💻 Back-End Web Developement (Python - Django & SQL)
 - 📚 Git Version Control
 <br>
 
