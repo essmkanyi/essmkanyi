@@ -6,11 +6,11 @@ I'm a passionate and aspiring MarTech Specialist based in Nairobi, Kenya ♥
 
 - 🎓 A graduate of Applied Computing
 - 👩🏾‍💻 Worked in Customer Support for over two years
-- 💹 Recently fell in love with creatively revamping Kenyan brands (check out on <img alt="HTML5" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />)
+- 💹 Recently fell in love with creatively revamping 🇰🇪 brands
 - 🧠 Self-growth is my favorite side project
 <br>
 
-## Ess's Eclectic Obsessions
+## Eclectic Obsessions
 
 I have a strong passion for anything tech & marketing, and I currently enjoy working on projects related to:
 
@@ -30,7 +30,7 @@ I have a strong passion for anything tech & marketing, and I currently enjoy wor
 
 ## Let's Chat!
 
-- 📧 Email: salutessie@gmail.com / thecodingmkanyi@gmail.com
+- 📧 Email: thecodingmkanyi@gmail.com
 - 💬 Twitter: https://twitter.com/essiemkanyika
 
 
