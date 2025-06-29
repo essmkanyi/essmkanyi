@@ -6,8 +6,7 @@ I'm a passionate and aspiring MarTech Specialist based in Nairobi, Kenya ♥
 
 - 🎓 A graduate of Applied Computing
 - 👩🏾‍💻 Worked in Customer Support for over two years
-- 💹 Recently fell in love with creatively revamping Kenyan brands (check out on 
-            <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> )
+- 💹 Recently fell in love with creatively revamping Kenyan brands (check out on <img alt="HTML5" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />)
 - 🧠 Self-growth is my favorite side project
 <br>
 
