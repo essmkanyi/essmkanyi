@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hiya%2C+I'm+Ess%21)](https://git.io/typing-svg)
 
-I'm a passionate and aspiring MarTech Specialist based in Nairobi, Kenya. 
+I'm a passionate and aspiring MarTech Specialist based in Nairobi, Kenya ♥
 
 ## About Ess
 
